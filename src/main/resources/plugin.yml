@@ -1,0 +1,5 @@
+name: SkullLimit
+version: '1.0'
+main: cn.ylarod.mcp.skulllimit.SkullLimit
+authors: [ Ylarod, LDS_XiaoYe ]
+description: Only hand can break skulls.
